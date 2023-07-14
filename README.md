@@ -6,7 +6,7 @@ Studi Independen Program Data Analyst - Live Class (Python + SQL) dirancang oleh
 
 ## Table of Contents
 
-[x] Module1: Fundamental SQL Menggunakan Google Big Query
+- [x] __Module1: Fundamental SQL Menggunakan Google Big Query__
 
 1. [Pengantar Google Cloud Platform dan Database](#pengantar-google-cloud-platform-dan-database)
 
