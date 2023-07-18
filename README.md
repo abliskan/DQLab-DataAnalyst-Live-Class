@@ -18,5 +18,21 @@ Studi Independen Program Data Analyst - Live Class (Python + SQL) dirancang oleh
 
 5. [Query JOIN](#query-join)
 
+- [x] __Module2: Fundamental Python Menggunakan Google Colab__
+
+1. [Pengenalan Python, dasar algoritma untuk pemecahan masalah, dan Pseudocode](#pengenalan-python-dasar-algoritma-untuk-pemecahan-masalah-dan-pseudocode)
+
+2. [Variabel dan tipe data, operator matematika, serta string functions and methods](#variabel-dan-tipe-data-operator-matematika-serta-string-functions-and-methods)
+
+3. [Struktur data](#struktur-data)
+
+4. [IF logic, function, dan loop](#if-logic-function-dan-loop)
+
+5. [Pandas dan manipulasi data](#pandas-dan-manipulasi-data)
+
+6. [Handling Missing Data](#handling-missing-data)
+   
+7. [Exploratory Data Analysis (EDA) menggunakan visualisasi data](#exploratory-data-analysis-menggunakan-visualisasi-data)
+
 ## Verify Certificates Data Analyst
 Comming Soon
