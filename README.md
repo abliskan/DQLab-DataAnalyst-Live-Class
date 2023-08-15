@@ -34,5 +34,11 @@ Studi Independen Program Data Analyst - Live Class (Python + SQL) dirancang oleh
    
 7. [Exploratory Data Analysis (EDA) menggunakan visualisasi data](#exploratory-data-analysis-menggunakan-visualisasi-data)
 
+- [x] __Module3: Data Visualization and Storytelling Menggunakan Looker Studio__
+
+1. [Pembuatan dashboard](#pemebuatan-dashboard)
+
+2. [Pembangunan dashboard](#pembangunan-dashboard)
+
 ## Verify Certificates Data Analyst
 Comming Soon
