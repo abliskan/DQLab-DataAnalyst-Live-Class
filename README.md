@@ -52,4 +52,4 @@ Studi Independen Program Data Analyst - Live Class (Python + SQL) dirancang oleh
 1. [Fundamental Data Storytelling](#fundamental-data-storytelling)
 
 ## Verify Certificates Data Analyst
-Comming Soon
+[Data Analyst with SQL and Python using Google Platform](https://academy.dqlab.id/Certificate_check/result/DQLABBCDAPSCB1OEBIJA#mycertificate)
