@@ -40,5 +40,16 @@ Studi Independen Program Data Analyst - Live Class (Python + SQL) dirancang oleh
 
 2. [Pembangunan dashboard](#pembangunan-dashboard)
 
+
+- [x] __Module4: Data Science in Python__
+
+1. [Basic machine learning](#basic-machine-learning)
+
+2. [Pembangunan model machine learning](#pembangunan-model-machine-learning)
+
+- [x] __Bonus Module: Data Storytelling__
+
+1. [Fundamental Data Storytelling](#fundamental-data-storytelling)
+
 ## Verify Certificates Data Analyst
 Comming Soon
